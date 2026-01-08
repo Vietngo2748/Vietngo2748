@@ -1,20 +1,15 @@
 # Hi, I'm Viet Ngo 👋
 Analog & Mixed-Signal IC Design | SerDes | High-Speed Interfaces
 
-I am passionate about integrated circuit design, with a strong focus on analog and mixed-signal systems, including high-speed serial links, data converters, and power management circuits.
-My work spans from architecture and circuit design to layout, verification, and system-level evaluation.
-
 🔬 Research & Technical Interests
 
-- High-speed SerDes & Receiver Equalization (CTLE, DFE, FFE)
+- High-speed SerDes design.
 
 - Current-steering DACs for wireline and transmitter applications
 
 - Low-dropout (LDO) regulators and power management ICs
 
 - Analog CMOS circuit design (op-amps, biasing, references)
-
-- Signal integrity, PVT analysis, and layout-aware design
 
 ---
 ## Projects
