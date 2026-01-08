@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 |---:|---|---|---|
 | SERDES ||||
 | |  1 | [RX Equalizer](https://github.com/muhammadaldacher/SERDES-Design-of-RX-Decision-Feedback-Equalizer) |  2025 |
-| RTL Design ||||
-| |  2 | [RISC-V CPU](https://github.com/muhammadaldacher/Analog-Design-of-Asynchronous-SAR-ADC)                        |  2020 |
-| |  3 | [UART Peripheral](https://github.com/muhammadaldacher/Analog-Design-of-1.5-bit-Pipeline-ADC-And-Boosted-OpAmp)|  2018 |                         
+| DAC ||||
+| |  1 | [12 bit current-steering DAC](https://github.com/muhammadaldacher/SERDES-Design-of-RX-Decision-Feedback-Equalizer) |  2025 |
 | Op-Amps ||||
-| |  15| [Op-Amps](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device)                                |  2018 |
+| |  15| [Two stage Op-Amp](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device)                                |  2024 |
+| LDO ||||
+| |  15| [Capless LDO](https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device)                                |  2025 |
+| RTL Design ||||
+| |  2 | [RISC-V CPU](https://github.com/Vietngo2748/RICS-V-simple-core)                        |  2024 |
+| |  3 | [UART Peripheral](https://github.com/Vietngo2748/UART-IN-FPGA-DE-10-LITE)|  2024 |                         
+
 
 ---
 
