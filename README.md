@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 | SERDES ||||
 | |  1 | [RX Equalizer](https://github.com/muhammadaldacher/SERDES-Design-of-RX-Decision-Feedback-Equalizer) |  2025 |
 | DAC ||||
-| |  2 | [12 bit current-steering DAC](https://github.com/muhammadaldacher/SERDES-Design-of-RX-Decision-Feedback-Equalizer) |  2025 |
+| |  2 | [12 bit current-steering DAC](https://github.com/Vietngo2748/12-bit-500MSPS-current-steering-DAC) |  2025 |
 | LDO ||||
 | |  3| [Capless LDO](https://github.com/Vietngo2748/Capless-LDO)                                |  2025 |
 | Op-Amps ||||
