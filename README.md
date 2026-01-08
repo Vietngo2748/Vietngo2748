@@ -1,14 +1,21 @@
 # Hi, I'm Viet Ngo 👋
-<!--
-**muhammadaldacher/muhammadaldacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+Analog & Mixed-Signal IC Design | SerDes | High-Speed Interfaces
+
+I am passionate about integrated circuit design, with a strong focus on analog and mixed-signal systems, including high-speed serial links, data converters, and power management circuits.
+My work spans from architecture and circuit design to layout, verification, and system-level evaluation.
+
+🔬 Research & Technical Interests
+
+- High-speed SerDes & Receiver Equalization (CTLE, DFE, FFE)
+
+- Current-steering DACs for wireline and transmitter applications
+
+- Low-dropout (LDO) regulators and power management ICs
+
+- Analog CMOS circuit design (op-amps, biasing, references)
+
+- Signal integrity, PVT analysis, and layout-aware design
+
 ---
 ## Projects
 |Topic| | Project | Year |
