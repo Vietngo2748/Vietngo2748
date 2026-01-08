@@ -1,14 +1,10 @@
 # Hi, I'm Viet Ngo 👋
 Analog & Mixed-Signal IC Design | SerDes | High-Speed Interfaces
 
-🔬 Research & Technical Interests
-
-- High-speed SerDes design.
-
-- Current-steering DACs for wireline and transmitter applications
-
+## 🔬 Research & Technical Interests
+- High-speed SerDes design
+- ADCs and DACs for RX and TX blocks in transceivers
 - Low-dropout (LDO) regulators and power management ICs
-
 - Analog CMOS circuit design (op-amps, biasing, references)
 
 ---
