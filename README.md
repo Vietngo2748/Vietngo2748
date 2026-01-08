@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 | DAC ||||
 | |  2 | [12 bit current-steering DAC](https://github.com/muhammadaldacher/SERDES-Design-of-RX-Decision-Feedback-Equalizer) |  2025 |
 | LDO ||||
-| |  3| [Capless LDO]([https://github.com/muhammadaldacher/Analog-Design-of-LDO-with-PMOS-pass-device](https://github.com/Vietngo2748/Capless-LDO))                                |  2025 |
+| |  3| [Capless LDO](https://github.com/Vietngo2748/Capless-LDO)                                |  2025 |
 | Op-Amps ||||
 | | 4| [Two stage Op-Amp](https://github.com/Vietngo2748/Two-Stage-Op-Amp)                                |  2024 |
 | RTL Design ||||
